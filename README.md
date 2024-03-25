@@ -1,4 +1,8 @@
 <h1>Mandi On Net</h1>
+  Economy of India is based on Farming. Nowadays, farmers are dealing with a variety of issues, one of the most prominent is being not getting the expected price for their produce. 
+  The long chain of aggregators and middlemen between  farmer  &  Consumer  has limited the earnings of the farmer. 
+  Focusing on this problem of farmers, we are developing a project to improve the ‘farmers’ economic conditions. “MANDI-ON-NET” is a part of that initiative.
+
 
 ##Table of Contents:
 1) [Introduction]
