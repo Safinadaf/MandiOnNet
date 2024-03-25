@@ -55,23 +55,22 @@
 
 
 ## Modules:
-  <h3><b><ul>1.Farmer’s Registration on website:-</ul></b></h3>
+<h3><b>1.Farmer’s Registration on website:-</b></h3>
        Farmer’s logs into the system using the login page with his Username & Password.<br> 
        If the farmer is new, he can register himself using Registration form page.<br>
        The detail’s will be stored in registered Farmer’s table in database.
-
-  <h3><b><ul>2.Customer Login:-</ul></b></h3>
+<h3><b>2.Customer Login:-</b></h3>
        The security is the most important thing. For the prevention of fraud.<br>
        Customer also should login with their Username and password.<br>
        The user’s credentials will be stored in the Consumer table of database.
 
 ## Installation:
-   1)Download the VS Code file from the Official Website.
+   <ol>1)Download the VS Code file from the Official Website.
    2)Execute the download file.
    3)Accept the Terms & Conditions.
    4)Click on the Install button.
    5)Wait for the installation to complete.
-   6)Click on the Launch button to start it.
+   6)Click on the Launch button to start it.</ol>
 
    <h3><b>Quick Highlights</b></h3>
     <ol> VS Code is a very user-friendly code editor and it is supported on all the different types of OS.</ol>
