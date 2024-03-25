@@ -17,164 +17,164 @@ let products = [
     {
         id: 1,
         name: 'Fresh Oranges',
-        image: 'product-1.PNG',
+        image: 'product-1.png',
         price: 30
     },
     {
         id: 2,
         name: 'Fresh Apples',
-        image: 'product-9.PNG',
+        image: 'product-9.png',
         price: 40
     },
     {
         id: 3,
         name: 'Fresh Banana',
-        image: 'product-11.PNG',
+        image: 'product-11.png',
         price: 20
     },
     {
         id: 4,
         name: 'Fresh Grapes',
-        image: 'product-13.PNG',
+        image: 'product-13.png',
         price: 25
     },
     {
         id: 5,
         name: 'Fresh Chickoo',
-        image: 'product-12.PNG',
+        image: 'product-12.png',
         price: 25
     },
     {
         id: 6,
         name: 'Sweet Lime',
-        image: 'product-14.PNG',
+        image: 'product-14.png',
         price: 35
     },
     {
         id: 7,
         name: 'Fresh Tomatoes',
-        image: 'product-15.PNG',
+        image: 'product-15.png',
         price: 20
     },
     {
         id: 8,
         name: 'Fresh Lemons',
-        image: 'product-8.PNG',
+        image: 'product-8.png',
         price: 2
     },
     {
         id: 9,
         name: 'Fresh Onions',
-        image: 'product-2.PNG',
+        image: 'product-2.png',
         price: 20
     },
     {
         id: 10,
         name: 'Fresh Carrots',
-        image: 'product-7.PNG',
+        image: 'product-7.png',
         price: 25
     },
     {
         id: 11,
         name: 'Fresh Cabbages',
-        image: 'product-4.PNG',
+        image: 'product-4.png',
         price: 15
     },
     {
         id: 12,
         name: 'Fresh Potatoes',
-        image: 'product-5.PNG',
+        image: 'product-5.png',
         price: 10
     },
     {
         id: 13,
         name: 'Capsicum',
-        image: 'product-16.PNG',
+        image: 'product-16.png',
         price: 15
     },
     {
         id: 14,
         name: 'Fresh Peas',
-        image: 'product-17.PNG',
+        image: 'product-17.png',
         price: 20
     },
     {
         id: 15,
         name: 'Coriander',
-        image: 'product-20.PNG',
+        image: 'product-20.png',
         price: 10
     },
     {
         id: 16,
         name: 'Green Chilies',
-        image: 'product-21.PNG',
+        image: 'product-21.png',
         quantity: '1/4 kg',
         price: 5
     },
     {
         id: 17,
         name: 'Garlic',
-        image: 'product-10.PNG',
+        image: 'product-10.png',
         price: 20
     },
     {
         id: 18,
         name: 'Ginger',
-        image: 'product-19.PNG',
+        image: 'product-19.png',
         price: 5
     },
     {
         id: 19,
         name: 'Wheat',
-        image: 'product-22.PNG',
+        image: 'product-22.png',
         price: 30
     },
     {
         id: 20,
         name: 'Rice',
-        image: 'product-23.PNG',
+        image: 'product-23.png',
         price: 40
     },
     {
         id: 21,
         name: 'Jowar',
-        image: 'product-24.PNG',
+        image: 'product-24.png',
         price: 28.50
     },
     {
         id: 22,
         name: 'Shabudana',
-        image: 'product-26.PNG',
+        image: 'product-26.png',
         price: 35
     },
     {
         id: 23,
         name: 'Corn Grains',
-        image: 'product-27.PNG',
+        image: 'product-27.png',
         price: 37
     },
     {
         id: 24,
         name: 'Red Chillie Powder ',
-        image: 'product-29.PNG',
+        image: 'product-29.png',
         price: 55
     },
     {
         id: 25,
         name: 'Turmaric Powder',
-        image: 'product-28.PNG',
+        image: 'product-28.png',
         price: 50
     },
     {
         id: 26,
         name: 'Cloves',
-        image: 'product-31.PNG',
+        image: 'product-31.png',
         price: 40
     },
     {
         id: 27,
         name: 'Cumin Seeds',
-        image: 'product-32.PNG',
+        image: 'product-32.png',
         price: 40
     },
 
