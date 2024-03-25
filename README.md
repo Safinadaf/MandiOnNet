@@ -3,14 +3,17 @@
   The long chain of aggregators and middlemen between  farmer  &  Consumer  has limited the earnings of the farmer. 
   Focusing on this problem of farmers, we are developing a project to improve the ‘farmers’ economic conditions. “MANDI-ON-NET” is a part of that initiative.
 
-
-##Table of Contents:
+## Table of Contents:
 1) [Introduction]
 2) [Features]
 3) [Aim]
 4) [Screenshots]
 5) [Installation]
 
+## Introduction:
+   The Project “MANDI-ON-NET” is a Website for Farmers where they can sell there product without any aggregators and middlemen between  farmer so they can get the much profit, which they    don’t get from physical market. It can develop farmer’s economical condition then before. And also the customer can get Products with less price then market.
+
+ 
 ## Screenshot
 
 ![BannerSS](https://github.com/Safinadaf/MandiOnNet/assets/161799539/5bc3b962-2c59-46cb-8ff0-786513a98121)
