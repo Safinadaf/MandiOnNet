@@ -3,7 +3,7 @@
   The long chain of aggregators and middlemen between  farmer  &  Consumer  has limited the earnings of the farmer. 
   Focusing on this problem of farmers, we are developing a project to improve the ‘farmers’ economic conditions. “MANDI-ON-NET” is a part of that initiative.
 
-## Table of Contents:
+## Content Table:
 1) [Introduction]
 2) [Features]
 3) [Aim]
@@ -65,12 +65,12 @@
        The user’s credentials will be stored in the Consumer table of database.
 
 ## Installation:
-   <ol>1)Download the VS Code file from the Official Website.
-   2)Execute the download file.
-   3)Accept the Terms & Conditions.
-   4)Click on the Install button.
-   5)Wait for the installation to complete.
-   6)Click on the Launch button to start it.</ol>
+   <ol>1)Download the VS Code file from the Official Website.</ol>
+   <ol>2)Execute the download file.</ol>
+   <ol>3)Accept the Terms & Conditions.</ol>
+   <ol>4)Click on the Install button.</ol>
+   <ol>5)Wait for the installation to complete.</ol>
+   <ol>6)Click on the Launch button to start it.</ol>
 
    <h3><b>Quick Highlights</b></h3>
     <ol> VS Code is a very user-friendly code editor and it is supported on all the different types of OS.</ol>
