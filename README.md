@@ -14,11 +14,9 @@
    The Project “MANDI-ON-NET” is a Website for Farmers where they can sell there product without any aggregators and middlemen between  farmer so they can get the much profit, which they    don’t get from physical market. It can develop farmer’s economical condition then before. And also the customer can get Products with less price then market.
 
 ## Features:
-<li>
   <ol> 1) Add Product</ol>
   <ol> 2) Verification Of Product</ol>
   <ol> 3) View Products</ol>
-</li>
 
 <b><ul>Features can be added(as requirement):-</ul></b>
 
