@@ -1,5 +1,12 @@
 <h1>Mandi On Net</h1>
 
+##Table of Contents:
+1) [Introduction]
+2) [Features]
+3) [Aim]
+4) [Screenshots]
+5) [Installation]
+
 ## Screenshot
 
 ![BannerSS](https://github.com/Safinadaf/MandiOnNet/assets/161799539/5bc3b962-2c59-46cb-8ff0-786513a98121)
@@ -21,3 +28,6 @@
 ![AddProductSS](https://github.com/Safinadaf/MandiOnNet/assets/161799539/4a2ec350-b245-43c0-9815-102c4a5bdb80)
 
 ![AddtoCartSS](https://github.com/Safinadaf/MandiOnNet/assets/161799539/5f099f75-3457-44bf-9622-5e39b02ac7e0)
+
+
+##
