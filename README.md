@@ -56,14 +56,30 @@
 
 ## Modules:
   <b><ul>1.Farmer’s Registration on website:-</ul></b>
-    Farmer’s logs into the system using the login page with his Username & Password. 
-    If the farmer is new, he can register himself using Registration form page.
+    Farmer’s logs into the system using the login page with his Username & Password.<br> 
+    If the farmer is new, he can register himself using Registration form page.<br>
     The detail’s will be stored in registered Farmer’s table in database.
 
   <b><ul>2.Customer Login:-</ul></b>
-    The security is the most important thing. For the prevention of fraud. 
-    Customer also should login with their Username and password. 
+    The security is the most important thing. For the prevention of fraud.<br>
+    Customer also should login with their Username and password.<br>
     The user’s credentials will be stored in the Consumer table of database.
 
-## Instalation:
-   
+## Installation:
+   Download the VS Code file from the Official Website.
+   Execute the download file.
+   Accept the Terms & Conditions.
+   Click on the Install button.
+   Wait for the installation to complete.
+   Click on the Launch button to start it.
+
+   <h3><b>Quick Highlights</b></h3>
+    <ol> VS Code is a very user-friendly code editor and it is supported on all the different types of OS.</ol>
+    <ol> It has support for all the languages like C, C++, Java, Python, JavaScript, React, Node JS, etc.</ol>
+    <ol> It is the most popular code editor in India.</ol>
+    <ol> It allows users with different types of in-app installed extensions.</ol>
+    <ol> It allows the programmers to write the code with ease with the help of these extensions.</ol>
+    <ol> Also, Visual Studio Code has a great vibrant software UI with amazing night mode features.</ol>
+    <ol> It suggests auto-complete code to the users which suggests the users complete their code with full ease.</ol>
+
+   <h3>Thank you For Visiting......</h3>
