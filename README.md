@@ -1,4 +1,4 @@
-<h1><ul>Mandi On Net</ul></h1>
+<h1>Mandi On Net</h1>
   Economy of India is based on Farming. Nowadays, farmers are dealing with a variety of issues, one of the most prominent is being not getting the expected price for their produce. 
   The long chain of aggregators and middlemen between  farmer  &  Consumer  has limited the earnings of the farmer. 
   Focusing on this problem of farmers, we are developing a project to improve the ‘farmers’ economic conditions. “MANDI-ON-NET” is a part of that initiative.
@@ -8,7 +8,8 @@
 2) [Features]
 3) [Aim]
 4) [Screenshots]
-5) [Installation]
+5) [Modules]
+6) [Installation]
 
 ## Introduction:
    The Project “MANDI-ON-NET” is a Website for Farmers where they can sell there product without any aggregators and middlemen between  farmer so they can get the much profit, which they    don’t get from physical market. It can develop farmer’s economical condition then before. And also the customer can get Products with less price then market.
@@ -18,7 +19,7 @@
   <ol> 2) Verification Of Product</ol>
   <ol> 3) View Products</ol>
 
-  <h3><b><ul>Features can be added(as requirement):-</ul></b></h3>
+  <h4><b><ul>Features can be added(as requirement):-</ul></b></h4>
 
   <ol> 1)Multilanguage option</ol>
   <ol> 2)Visitor (User)</ol>
@@ -53,4 +54,16 @@
 ![AddtoCartSS](https://github.com/Safinadaf/MandiOnNet/assets/161799539/5f099f75-3457-44bf-9622-5e39b02ac7e0)
 
 
-##
+## Modules:
+  <b><ul>1.Farmer’s Registration on website:-</ul></b>
+    Farmer’s logs into the system using the login page with his Username & Password. 
+    If the farmer is new, he can register himself using Registration form page.
+    The detail’s will be stored in registered Farmer’s table in database.
+
+  <b><ul>2.Customer Login:-</ul></b>
+    The security is the most important thing. For the prevention of fraud. 
+    Customer also should login with their Username and password. 
+    The user’s credentials will be stored in the Consumer table of database.
+
+## Instalation:
+   
