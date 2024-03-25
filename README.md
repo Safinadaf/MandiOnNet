@@ -1,4 +1,4 @@
-<h1>Mandi On Net</h1>
+<h1 textalign="center"><ul>Mandi On Net</ul></h1>
   Economy of India is based on Farming. Nowadays, farmers are dealing with a variety of issues, one of the most prominent is being not getting the expected price for their produce. 
   The long chain of aggregators and middlemen between  farmer  &  Consumer  has limited the earnings of the farmer. 
   Focusing on this problem of farmers, we are developing a project to improve the ‘farmers’ economic conditions. “MANDI-ON-NET” is a part of that initiative.
@@ -18,12 +18,12 @@
   <ol> 2) Verification Of Product</ol>
   <ol> 3) View Products</ol>
 
-<b><ul>Features can be added(as requirement):-</ul></b>
+  <h3><b><ul>Features can be added(as requirement):-</ul></b></h3>
 
-  1)Multilanguage option
-  2)Visitor (User)
-  3)Product categories can be increased to include 
-  4)Farming equipment and fertilizers etc.
+  <ol> 1)Multilanguage option</ol>
+  <ol> 2)Visitor (User)</ol>
+  <ol> 3)Product categories can be increased to include</ol> 
+  <ol> 4)Farming equipment and fertilizers etc.</ol>
 
 ## Aim Of Creating:
    The  website aims to create methodologies to strengthen the farmer’s economic condition.
